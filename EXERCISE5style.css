@@ -1,0 +1,69 @@
+.p {
+	font-size:20em; color: #d147a3; margin-top: 100px; margin-bottom: 160px; padding-left: 10em;
+}
+
+
+
+
+
+
+
+
+
+.bars2 {
+	width: 20px; height: 80px;
+	background-color: green; 
+	margin: 300px 20px 20px 100px;
+	float: right;
+}
+
+.two {
+	position: relative;
+	background-color: #C3DDD6;
+	bottom: 30px;
+}
+
+.zero {
+	position: relative;
+	background-color: purple;
+}
+
+.three { 
+	position: relative;
+	background-color: green; 
+	top: 30px;
+}
+
+.four { 
+	position: relative;
+	background-color: purple;
+}
+
+.five { 
+	position: relative;
+	background-color: #C3DDD6;
+	bottom: 30px
+}
+
+.six { 
+	position: relative;
+	background-color: green; 
+	top: 30px
+}
+
+.seven {
+	position: relative;
+	background-color: purple;
+}
+
+.eight {
+	position: relative;
+	background-color: #C3DDD6;
+	bottom: 30px;
+}
+
+.nine { 
+	position: relative;
+	background-color:green; 
+	top: 30px;
+}
